@@ -3,7 +3,7 @@ $.ajax({
 	type: "GET",
 	dataType: 'json',
 	cache: false,
-	// async: false,
+	async: false,
 	success: function(data) {
 		if(data.number) {
 			var select = $("#license-number");
