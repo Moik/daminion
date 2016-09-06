@@ -1,8 +1,8 @@
 {
 	"licenses": [
-		{"plan": "#1", "price": "13"},
-		{"plan": "#2", "price": "22"},
-		{"plan": "#3", "price": "34"},
+		{"plan": "#1", "price": 13},
+		{"plan": "#2", "price": 22},
+		{"plan": "#3", "price": 34}
 	],
-	"number": "10"
+	"number": 20
 }
